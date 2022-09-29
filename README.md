@@ -5,8 +5,6 @@
 This project brought together a combination of express.js, SQL, mysql2, Sequelize, and Handlbars in the MVC paradigm.  I learned about using Handlebars to create the front end of the website, use authentication, and conditionally show/hide pages of the website based on authentication. 
 
 
-![Tech Blog Post List](https://user-images.githubusercontent.com/64170123/179441374-338acce6-434c-4fc1-a0ae-7303b383f719.jpg)
-
 ## Table of Contents
 
 * [Installation](#installation)
@@ -33,9 +31,9 @@ When the user gets to the homepage, they will be presented with a list of existi
 ## Links
 
 
-The link to the project is here: https://limitless-hollows-96215.herokuapp.com
+The link to the project is here: 
 
-The url of the Git repository is here: https://github.com/Samantha-Ruth/Tech-Blog
+The url of the Git repository is here: https://github.com/Samantha-Ruth/Just-Tech-News
 
 
 ## Questions
